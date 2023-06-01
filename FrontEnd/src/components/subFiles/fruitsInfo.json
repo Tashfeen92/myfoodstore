@@ -1,0 +1,200 @@
+[
+  {
+    "categoryName": "FreshProduce",
+    "tag": "f",
+    "image": "https://i.hurimg.com/i/hdn/75/0x0/6326faa64e3fe1167045aee9.jpg",
+    "head": "Mango",
+    "disc": "Mango is a tropical fruit that is known for its sweet and juicy taste.",
+    "price": 160,
+    "prices": "160/kg",
+    "priceTag": "kg",
+    "quantity": 1
+  },
+  {
+    "categoryName": "FreshProduce",
+    "tag": "f",
+    "image": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/07/what_to_know_apples_green_red_1296x728_header-1024x575.jpg?w=1155&h=1528",
+    "head": "Apple",
+    "disc": "Apple is a popular fruit known for its crisp texture and sweet or tart flavor",
+    "price": 300,
+    "prices": "300/kg",
+    "priceTag": "kg",
+    "quantity": 1
+  },
+  {
+    "categoryName": "FreshProduce",
+    "tag": "f",
+    "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2021/07/bananas.jpg?quality=82&strip=all",
+    "head": "Banana",
+    "disc": "Bananas are also versatile and can be used in various culinary preparations.",
+    "price": 150,
+    "prices": "150/Dozen",
+    "priceTag": "Dozen",
+    "quantity": 1
+  },
+  {
+    "categoryName": "FreshProduce",
+    "tag": "f",
+    "image": "https://clv.h-cdn.co/assets/15/22/2048x2048/square-1432664914-strawberry-facts1.jpg",
+    "head": "Strawberry",
+    "disc": "Strawberry is a delicious and vibrant fruit known for its sweet and tangy flavor.",
+    "price": 280,
+    "prices": "280/kg",
+    "priceTag": "kg",
+    "quantity": 1
+  },
+  {
+    "categoryName": "FreshProduce",
+    "tag": "f",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg",
+    "head": "PineApple",
+    "disc": "Pineapple is a tropical fruit known for its tangy flavor and distinctively spiky exterior.",
+    "price": 600,
+    "prices": "600/kg",
+    "priceTag": "kg",
+    "quantity": 1
+  },
+  {
+    "categoryName": "FreshProduce",
+    "tag": "f",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ambersweet_oranges.jpg",
+    "head": "Orange",
+    "disc": "Oranges are citrus fruits known for their refreshing flavor, and high vitamin C content. ",
+    "price": 520,
+    "prices": "520/Dozen",
+    "priceTag": "Dozen",
+    "quantity": 1
+  },
+  {
+    "categoryName": "BakeryGoods",
+    "tag": "d",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/man-dispensing-cakes-in-a-pastry-bakery-royalty-free-image-1676319170.jpg?crop=1.00xw:0.752xh;0,0.106xh&resize=1200:*",
+    "head": "Pastries",
+    "disc": "Pastries are a delicious category of baked goods.",
+    "price": 120,
+    "prices": "120/Pc",
+    "priceTag": "Pc",
+    "quantity": 1
+  },
+  {
+    "categoryName": "BakeryGoods",
+    "tag": "d",
+    "image": "https://www.allrecipes.com/thmb/8xwaWAHtl_QLij6D-G0Z4B1HDVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/10813-best-chocolate-chip-cookies-mfs-146-4x3-b108aceffa6043a1ac81c3c5a9b034c8.jpg",
+    "head": "Cookies",
+    "disc": "Cookies are delightful baked treats that come in various shapes, flavors, and textures.",
+    "price": 800,
+    "prices": "800/kg",
+    "priceTag": "kg",
+    "quantity": 1
+  },
+  {
+    "categoryName": "BakeryGoods",
+    "tag": "d",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/03/Unicorn-cake-32e0971.jpg",
+    "head": "Cakes",
+    "disc": "Cakes are delightful desserts that are perfect for celebrating special occasions",
+    "price": 900,
+    "prices": "900/Pound",
+    "priceTag": "Pound",
+    "quantity": 1
+  },
+  {
+    "categoryName": "BakeryGoods",
+    "tag": "d",
+    "image": "https://cdn.britannica.com/38/230838-050-D0173E79/doughnuts-donuts.jpg",
+    "head": "Donuts",
+    "disc": "Donuts are delicious baked pastries that are typically round with a hole in the center.",
+    "price": 80,
+    "prices": "80/Pc",
+    "priceTag": "Pc",
+    "quantity": 1
+  },
+  {
+    "categoryName": "BakeryGoods",
+    "tag": "d",
+    "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/05/19/228553-MoistChocolateMuffins-mfs-2X3-0923.jpg",
+    "head": "Muffin",
+    "disc": "Muffins are versatile baked treats that are often enjoyed for breakfast or as a snack.",
+    "price": 160,
+    "prices": "160/Pc",
+    "priceTag": "Pc",
+    "quantity": 1
+  },
+  {
+    "categoryName": "BakeryGoods",
+    "tag": "d",
+    "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2015/12/thanksgiving-pies.jpg?quality=82&strip=1",
+    "head": "Pies",
+    "disc": "Pie is a delicious baked dish consisting of a sweet filling enclosed in a pastry crust.",
+    "price": 240,
+    "prices": "240/Pc",
+    "priceTag": "Pc",
+    "quantity": 1
+  },
+  {
+    "categoryName": "PantryStaples",
+    "tag": "f",
+    "image": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-06/black-lentils%C2%A9iStock.jpg",
+    "head": "Black Lentil",
+    "disc": "Black lentils are small, dark-colored legumes that are commonly used in cooking.",
+    "price": 320,
+    "prices": "320/kg",
+    "priceTag": "kg",
+    "quantity": 1
+  },
+  {
+    "categoryName": "PantryStaples",
+    "tag": "f",
+    "image": "https://fdorganic.com/cdn/shop/products/FarmerDirect-Website-Products-Lentils-Organic-SplitRed-3_2x_92a3ed40-1c2d-4321-bdaa-dbd5afba2bcf_900x.jpg?v=1649708640",
+    "head": "Red Lentils",
+    "disc": "Red lentils are a type of lentil that is widely used in cooking.",
+    "price": 240,
+    "prices": "240/kg",
+    "priceTag": "kg",
+    "quantity": 1
+  },
+  {
+    "categoryName": "PantryStaples",
+    "tag": "f",
+    "image": "https://www.culinaryhill.com/wp-content/uploads/2023/01/How-to-Roast-Chickpeas-1200-x-800-Culinary-Hill.jpg",
+    "head": "ChickPeas",
+    "disc": "Chickpeas, also known as garbanzo beans widely used in cooking around the world. ",
+    "price": 320,
+    "prices": "320/kg",
+    "priceTag": "kg",
+    "quantity": 1
+  },
+  {
+    "categoryName": "PantryStaples",
+    "tag": "f",
+    "image": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2019/11/lentils-in-a-jug-and-on-a-spoon.jpg?w=1155&h=1734",
+    "head": "Brown Lentil",
+    "disc": "Brown lentils Spanish pardina lentils, are a type of legume widely used in cooking.",
+    "price": 180,
+    "prices": "180/kg",
+    "priceTag": "kg",
+    "quantity": 1
+  },
+  {
+    "categoryName": "PantryStaples",
+    "tag": "f",
+    "image": "https://lifeatthetable.com/wp-content/uploads/2018/12/Black-eyed-pea-from-lowly-cowpea-to-center-stage-1080x675.jpg",
+    "head": "Black Eyed Beans",
+    "disc": "Black-eyed beans are a type of legume widely consumed around the world.",
+    "price": 400,
+    "prices": "400/kg",
+    "priceTag": "kg",
+    "quantity": 1
+  },
+  {
+    "categoryName": "PantryStaples",
+    "tag": "f",
+    "image": "https://cdn.apartmenttherapy.info/image/upload/v1559169776/k/archive/98bb592af3816af37362ef44e020d69df9ccac1b.jpg",
+    "head": "Green Lentil",
+    "disc": "Strawberry is a delicious and vibrant fruit known for its sweet and tangy flavor.",
+    "price": 260,
+    "prices": "260/kg",
+    "priceTag": "kg",
+    "quantity": 1
+  }
+]

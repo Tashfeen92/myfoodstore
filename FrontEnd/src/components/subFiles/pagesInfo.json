@@ -1,0 +1,23 @@
+[
+  {
+    "freshProduceImg": "https://media.istockphoto.com/id/1208790364/photo/healthy-fresh-rainbow-colored-fruits-and-vegetables-in-a-row.jpg?b=1&s=170667a&w=0&k=20&c=wUmdSBiDut4iwEoccdNTr6Iqt8h31kU8Kh106WeDrbk=",
+    "categoryName": "FreshProduce",
+    "categoryNamed": "Fruits . Vegetables",
+    "type1": "Vegetables",
+    "type2": "Fruits"
+  },
+  {
+    "freshProduceImg": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/frederickcountymd/Debs_Artisan_Bakehouse_7497148e-46e2-4562-bb0f-8fcfc6fba3a1.jpg",
+    "categoryName": "BakeryGoods",
+    "categoryNamed": "Breads . Deserts",
+    "type1": "Breads",
+    "type2": "Deserts"
+  },
+  {
+    "freshProduceImg": "https://media.istockphoto.com/id/1283712032/photo/cardboard-box-filled-with-non-perishable-foods-on-wooden-table-high-angle-view.jpg?s=612x612&w=0&k=20&c=7B2cUwQB2LeBmIh5JElkO5DoE7GRq-CRVmERsMSJoVY=",
+    "categoryName": "PantryStaples",
+    "categoryNamed": "Essentials . Lentils",
+    "type1": "Essentials",
+    "type2": "Lentils"
+  }
+]
